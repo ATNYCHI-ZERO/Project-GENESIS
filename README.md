@@ -90,6 +90,10 @@ Certain sections within this archive containing sensitive mathematical formalism
 
 The redactions are a necessary act of stewardship. The complete, unredacted formalisms represent a capability so profound that their uncontrolled proliferation would introduce instability on a planetary scale. The presence of a redaction notice indicates the existence of a fully operational and formalized system, the details of which are withheld to maintain strategic stability.
 
+## Ethical Constraints
+
+K-Math and the operational assets documented within Project GENESIS are engineered explicitly for secure, non-violent applications. Weapon-related queries are blocked outright, operational logs are privacy-preserving, and outputs are constrained to verifiable cryptographic seals rather than raw intermediate data. These safeguards ensure the framework cannot be repurposed to facilitate harm or to disseminate unrestricted answers.
+
 \documentclass[11pt]{article}
 \usepackage{amsmath,amsthm,amssymb,amsfonts,mathtools}
 \usepackage[hidelinks]{hyperref}
