@@ -1,0 +1,7 @@
+# Core scientific libraries
+numpy
+scipy
+
+# Quantum SDK for hybrid models
+# Use 'pip install pennylane' to install
+pennylane
